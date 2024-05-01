@@ -4,3 +4,9 @@ h1{
   font-size: larger;
   background-color: aqua;
 }
+
+h2{
+  color: blueviolet;
+  text-align: left;
+  background-color: beige;
+}
